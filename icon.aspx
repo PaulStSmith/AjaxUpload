@@ -1,0 +1,1 @@
+<%@ Page Language="vb" AutoEventWireup="false" CodeBehind="icon.aspx.vb" Inherits="AjaxUpload.icon" %>

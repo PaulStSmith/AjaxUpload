@@ -1,0 +1,3 @@
+<%@ Control Language="vb" AutoEventWireup="false" CodeBehind="AjaxUpload.ascx.vb" Inherits="AjaxUpload.AjaxUpload" %>
+<table runat="server" id="files"></table>
+<div runat="server" id="uploading" style="display:none;width:auto;"><table border="0" cellspacing="0" cellpadding="1"><tr><td valign="middle" align="center"><img id="imgUploading" runat="server" alt="" src="uploading.gif" /></td><td valign="middle" align="left"><asp:Label runat="server" ID="lblFileName" /></td></tr></table></div>
